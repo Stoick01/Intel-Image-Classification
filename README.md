@@ -20,9 +20,11 @@ All original dimension of images are used, the model is vgg11 without pretrainin
 Without pretraining such a big model has hard time generalizing. The following are the best results achieved with this approach.
 
 Loss:
+
 ![Example](/assets/loss.png)
 
 Accuracy:
+
 ![Example](/assets/acc.png)
 
 Here we can also see how the model predicted some images.
